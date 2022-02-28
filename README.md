@@ -8,5 +8,5 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/D9gNXsh/Screenshot-2.png" alt="Screenshot-2" border="0" /></a>
    + *В итоге Мы получем **txt** файл c нужными Нам прокси.*
 <a href="https://ibb.co/v33hfPy"><img src="https://i.ibb.co/n77B4cd/Screenshot-3.png" alt="Screenshot-3" border="0" /></a>
-![PyPI](https://img.shields.io/pypi/v/tkinter-page?color=blue&label=Tkinter%20%7C%20python%203.10&style=plastic) ![123](https://img.shields.io/static/v1?label=VSCODE&message=Code&color=<COLOR>)
+### ![PyPI](https://img.shields.io/pypi/v/tkinter-page?color=blue&label=Tkinter%20%7C%20python%203.10&style=plastic) ![123](https://img.shields.io/static/v1?label=VSCODE&message=Code&color=<COLOR>)
 
