@@ -1,4 +1,4 @@
-![PyPI](https://img.shields.io/pypi/v/tkinter-page?color=blue&label=Tkinter%20%7C%20python%203.10&style=plastic) (style=plastic&logo=appveyor)
+![PyPI](https://img.shields.io/pypi/v/tkinter-page?color=blue&label=Tkinter%20%7C%20python%203.10&style=plastic) ![123](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
 # GetProxyPro
 ## Программа для получения таких прокси, как: HTTP, SOCKS4, SOCKS5.
 ## **Установка:**
